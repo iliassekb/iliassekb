@@ -60,20 +60,13 @@ Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase �
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iliassekb&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iliasse-kablani-61a950187/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:iliassekablani5@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
