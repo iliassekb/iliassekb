@@ -62,7 +62,7 @@
 <p align="left"><b>Frameworks</b></p>
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=streamlit" width="40" height="40" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="40" height="40" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/><br/><sub>Django</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/><br/><sub>Laravel</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
