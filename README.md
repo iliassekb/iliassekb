@@ -71,8 +71,7 @@
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/airflow.svg" width="40" height="40" alt="Airflow"/><br/><sub>Airflow</sub></td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/zookeeper.svg" width="40" height="40" alt="Zookeeper"/><br/><sub>Zookeeper</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hbase.svg" width="40" height="40" alt="HBase"/><br/><sub>HBase</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/apachehbase.svg" width="40" height="40" alt="HBase"/><br/><sub>HBase</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/mlflow.svg" width="40" height="40" alt="MLflow"/><br/><sub>MLflow</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/minio.svg" width="40" height="40" alt="MinIO"/><br/><sub>MinIO</sub></td>
   </tr>
@@ -93,7 +92,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/><sub>Redis</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oraclepl.svg" width="40" height="40" alt="Oracle PL/SQL"/><br/><sub>Oracle PL/SQL</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oracle.svg" width="40" height="40" alt="Oracle PL/SQL"/><br/><sub>Oracle PL/SQL</sub></td>
   </tr>
 </table>
 
