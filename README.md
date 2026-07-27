@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql,postgres,redis" alt="Big Data Stack" />
 </p>
 
-Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase · MLflow · MinIO · NumPy · Pandas · Keras · Jupyter · LangChain · CrewAI · Streamlit · XGBoost · LightGBM · Oracle PL/SQL
+Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase · MLflow · MinIO · NumPy · Pandas · Keras · Jupyter · LangChain · CrewAI · Streamlit · Oracle PL/SQL
 
 ---
 
