@@ -63,16 +63,7 @@ Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliassekb&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliassekb&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=iliassekb&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iliassekb&theme=flat&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
