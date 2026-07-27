@@ -24,47 +24,78 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,scala,bash" alt="Languages" />
-</p>
+<p align="left"><b>Languages</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=scala" width="40" height="40" alt="Scala"/><br/><sub>Scala</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/><br/><sub>Bash</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <b>Machine Learning & Deep Learning</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML Stack" />
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/keras.svg" width="48" height="48" alt="Keras"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter"/>
-</p>
+<p align="left"><b>Machine Learning & Deep Learning</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/numpy.svg" width="40" height="40" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/pandas.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/keras.svg" width="40" height="40" alt="Keras"/><br/><sub>Keras</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/jupyter.svg" width="40" height="40" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <b>LLM & AI Agents</b><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="48" height="48" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="48" height="48" alt="CrewAI"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit"/>
-</p>
+<p align="left"><b>LLM & AI Agents</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="40" height="40" alt="LangChain"/><br/><sub>LangChain</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="40" height="40" alt="CrewAI"/><br/><sub>CrewAI</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="40" height="40" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <b>Big Data & Data Engineering</b><br/>
-  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hadoop.svg" width="48" height="48" alt="Hadoop"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/spark.svg" width="48" height="48" alt="Spark"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hive.svg" width="48" height="48" alt="Hive"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/presto.svg" width="48" height="48" alt="Presto"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/airflow.svg" width="48" height="48" alt="Airflow"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/zookeeper.svg" width="48" height="48" alt="Zookeeper"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hbase.svg" width="48" height="48" alt="HBase"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/mlflow.svg" width="48" height="48" alt="MLflow"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/minio.svg" width="48" height="48" alt="MinIO"/>
-</p>
+<p align="left"><b>Big Data & Data Engineering</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka"/><br/><sub>Kafka</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hadoop.svg" width="40" height="40" alt="Hadoop"/><br/><sub>Hadoop</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/spark.svg" width="40" height="40" alt="Spark"/><br/><sub>Spark</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hive.svg" width="40" height="40" alt="Hive"/><br/><sub>Hive</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/presto.svg" width="40" height="40" alt="Presto"/><br/><sub>Presto</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/airflow.svg" width="40" height="40" alt="Airflow"/><br/><sub>Airflow</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/zookeeper.svg" width="40" height="40" alt="Zookeeper"/><br/><sub>Zookeeper</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hbase.svg" width="40" height="40" alt="HBase"/><br/><sub>HBase</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/mlflow.svg" width="40" height="40" alt="MLflow"/><br/><sub>MLflow</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/minio.svg" width="40" height="40" alt="MinIO"/><br/><sub>MinIO</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <b>DevOps, Infra & Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode,mongodb,mysql,postgres,redis" alt="DevOps Stack" />
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oraclepl.svg" width="48" height="48" alt="Oracle PL/SQL"/>
-</p>
+<p align="left"><b>DevOps, Infra & Databases</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/><sub>Redis</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oraclepl.svg" width="40" height="40" alt="Oracle PL/SQL"/><br/><sub>Oracle PL/SQL</sub></td>
+  </tr>
+</table>
 
 ---
 
