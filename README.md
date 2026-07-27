@@ -31,6 +31,9 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=scala" width="40" height="40" alt="Scala"/><br/><sub>Scala</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/><br/><sub>Bash</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/><br/><sub>C</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/><br/><sub>PHP</sub></td>
   </tr>
 </table>
 
@@ -51,10 +54,19 @@
 <p align="left"><b>LLM & AI Agents</b></p>
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="40" height="40" alt="LangChain"/><br/><sub>LangChain</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="40" height="40" alt="CrewAI"/><br/><sub>CrewAI</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="40" height="40" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+  </tr>
+</table>
+
+<p align="left"><b>Frameworks</b></p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=streamlit" width="40" height="40" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/><br/><sub>Django</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/><br/><sub>Laravel</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/><br/><sub>Next.js</sub></td>
   </tr>
 </table>
 
@@ -82,11 +94,12 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/><sub>Redis</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oracle.svg" width="40" height="40" alt="Oracle PL/SQL"/><br/><sub>Oracle PL/SQL</sub></td>
   </tr>
