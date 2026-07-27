@@ -72,10 +72,10 @@ Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase �
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iliasse-kablani-61a950187/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:iliassekablani5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 </p>
 
