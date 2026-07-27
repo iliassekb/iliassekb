@@ -24,54 +24,21 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,scala,bash,git,linux,docker,kubernetes,githubactions,vscode" alt="Core Stack" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p align="left">
+  <b>Machine Learning:</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi" alt="ML Stack" />
+</p>
 
-**Machine Learning & Deep Learning**
+<p align="left">
+  <b>Big Data & Databases:</b><br/>
+  <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql,postgres,redis" alt="Big Data Stack" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**LLM & AI Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat&logo=crewai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Big Data & Data Engineering**
-
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
-![Presto](https://img.shields.io/badge/Presto-5890FF?style=flat&logo=presto&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Zookeeper](https://img.shields.io/badge/Zookeeper-D22128?style=flat)
-![HBase](https://img.shields.io/badge/HBase-4A4A4A?style=flat)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
-
-**DevOps, Infra & Databases**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat)
+Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase · MLflow · MinIO · NumPy · Pandas · Keras · Jupyter · LangChain · CrewAI · Streamlit · XGBoost · LightGBM · Oracle PL/SQL
 
 ---
 
@@ -101,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliassekb&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=iliassekb&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
