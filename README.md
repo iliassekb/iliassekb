@@ -38,7 +38,25 @@
   <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql,postgres,redis" alt="Big Data Stack" />
 </p>
 
-Also using: Hadoop · Spark · Hive · Presto · Airflow · Zookeeper · HBase · MLflow · MinIO · NumPy · Pandas · Keras · Jupyter · LangChain · CrewAI · Streamlit · Oracle PL/SQL
+**Also using:**
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Presto](https://img.shields.io/badge/Presto-5890FF?style=flat-square&logo=presto&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Zookeeper](https://img.shields.io/badge/Zookeeper-D22128?style=flat-square)
+![HBase](https://img.shields.io/badge/HBase-4A4A4A?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square)
 
 ---
 
