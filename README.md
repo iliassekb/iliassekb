@@ -38,25 +38,26 @@
   <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql,postgres,redis" alt="Big Data Stack" />
 </p>
 
-**Also using:**
-
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![Presto](https://img.shields.io/badge/Presto-5890FF?style=flat-square&logo=presto&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Zookeeper](https://img.shields.io/badge/Zookeeper-D22128?style=flat-square)
-![HBase](https://img.shields.io/badge/HBase-4A4A4A?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square)
+<p align="left">
+  <b>Also using:</b><br/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hadoop.svg" width="48" height="48" alt="Hadoop"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/spark.svg" width="48" height="48" alt="Spark"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hive.svg" width="48" height="48" alt="Hive"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/presto.svg" width="48" height="48" alt="Presto"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/airflow.svg" width="48" height="48" alt="Airflow"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/zookeeper.svg" width="48" height="48" alt="Zookeeper"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hbase.svg" width="48" height="48" alt="HBase"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/mlflow.svg" width="48" height="48" alt="MLflow"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/minio.svg" width="48" height="48" alt="MinIO"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/keras.svg" width="48" height="48" alt="Keras"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="48" height="48" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="48" height="48" alt="CrewAI"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oraclepl.svg" width="48" height="48" alt="Oracle PL/SQL"/>
+</p>
 
 ---
 
