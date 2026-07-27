@@ -25,21 +25,30 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,bash,git,linux,docker,kubernetes,githubactions,vscode" alt="Core Stack" />
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,scala,bash" alt="Languages" />
 </p>
 
 <p align="left">
-  <b>Machine Learning:</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi" alt="ML Stack" />
+  <b>Machine Learning & Deep Learning</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML Stack" />
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/keras.svg" width="48" height="48" alt="Keras"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter"/>
 </p>
 
 <p align="left">
-  <b>Big Data & Databases:</b><br/>
-  <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql,postgres,redis" alt="Big Data Stack" />
+  <b>LLM & AI Agents</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="48" height="48" alt="LangChain"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="48" height="48" alt="CrewAI"/>
+  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit"/>
 </p>
 
 <p align="left">
-  <b>Also using:</b><br/>
+  <b>Big Data & Data Engineering</b><br/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hadoop.svg" width="48" height="48" alt="Hadoop"/>
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/spark.svg" width="48" height="48" alt="Spark"/>
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hive.svg" width="48" height="48" alt="Hive"/>
@@ -49,13 +58,11 @@
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/hbase.svg" width="48" height="48" alt="HBase"/>
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/mlflow.svg" width="48" height="48" alt="MLflow"/>
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/minio.svg" width="48" height="48" alt="MinIO"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/keras.svg" width="48" height="48" alt="Keras"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/langchain.svg" width="48" height="48" alt="LangChain"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/crewai.svg" width="48" height="48" alt="CrewAI"/>
-  <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit"/>
+</p>
+
+<p align="left">
+  <b>DevOps, Infra & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,vscode,mongodb,mysql,postgres,redis" alt="DevOps Stack" />
   <img src="https://raw.githubusercontent.com/iliassekb/iliassekb/main/assets/icons/oraclepl.svg" width="48" height="48" alt="Oracle PL/SQL"/>
 </p>
 
